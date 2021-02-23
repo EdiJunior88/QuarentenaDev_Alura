@@ -14,3 +14,6 @@ Uma maratona de 10 aulas para criar seus primeiros códigos!
 - Arrays e eseruturas
 - Gráficos e desafios
 - L2: Além da Lógica
+
+<h4><b>Status do Curso:</b> :lock: Pausado</h4>
+
